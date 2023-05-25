@@ -5,6 +5,7 @@ def cari_bilangan_cacah_terkecil(data):
         bilangan_cacah += 1
     return bilangan_cacah
 
+print ("Volem Alvaro Azira")
 input1 = [5, 2, 8, 4, 3, 10]
 output1 = cari_bilangan_cacah_terkecil(input1)
 print("Output 1:", output1)

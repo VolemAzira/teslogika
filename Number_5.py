@@ -39,6 +39,7 @@ def create_pattern2(n):
 
 # Tes kasus-kasus yang diberikan
 
+print ("Volem Alvaro Azira")
 n = int(input("Masukkan n = "))
 
 create_pattern(n)

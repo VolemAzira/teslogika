@@ -11,6 +11,7 @@ def cari_kata(teks):
     return " - ".join(hasil)
 
 # Contoh penggunaan
+print ("Volem Alvaro Azira")
 teks_masukan = "Berikut adalah kisah sang gajah. Sang gajah memiliki teman serigala bernama DoeSang. Gajah sering dibela oleh serigala ketika harimau mendekati gajah."
 hasil_pencarian = cari_kata(teks_masukan)
 print(hasil_pencarian)
